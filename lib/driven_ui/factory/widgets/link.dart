@@ -1,9 +1,7 @@
-import 'package:server_driven_ui_2/driven_ui/dtos/widgets/lable.dto.dart';
 import 'package:server_driven_ui_2/driven_ui/dtos/widgets/link.dto.dart';
 import 'package:server_driven_ui_2/driven_ui/factory/base_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:server_driven_ui_2/utils/extensions.dart';
-import 'package:server_driven_ui_2/utils/hex_color.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class LinkDriven extends BaseDrivenUiWidget<LinkSchemaDto> {
