@@ -136,6 +136,7 @@ class _AdvertisePageState extends State<TestApp> {
     // find special child from the children
     final form =
         forms.firstWhereOrNull(((element) => element.key == 'test_form'));
+    print(form?.getFormData());
     SchemaEventBus.on<ButtonClickEvent>().listen(
       (event) {
         // find one child by its key
