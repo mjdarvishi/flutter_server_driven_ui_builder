@@ -15,8 +15,7 @@ dependencies:
   url_launcher: ^6.3.1
   flutter_map: ^7.0.2
   cupertino_icons: ^1.0.8
-  schema_registry:
-    path: ./schema_registry
+  type_binder: ^0.0.1
 
 dev_dependencies:
   flutter_test:
