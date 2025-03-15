@@ -1,7 +1,8 @@
 name: server_driven_ui_builder
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/mjdarvishi/flutter_server_driven_ui_builder.git
+repository: https://github.com/mjdarvishi/flutter_server_driven_ui_builder.git
 
 environment:
   sdk: ^3.5.4
@@ -10,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cached_network_image: any
+  cached_network_image: ^3.4.1
   url_launcher: ^6.3.1
   flutter_map: ^7.0.2
   cupertino_icons: ^1.0.8
