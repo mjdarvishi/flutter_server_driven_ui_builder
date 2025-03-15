@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:type_binder/annotation.dart';
-import 'package:server_driven_ui_2/driven_ui/dtos/schema.dto.dart';
+import 'package:flutter_server_driven_ui/driven_ui/dtos/schema.dto.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'expanded.dto.g.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:server_driven_ui_2/utils/hex_color.dart';
+import 'package:flutter_server_driven_ui/utils/hex_color.dart';
 
 extension ContextExtensions on BuildContext {
   TextTheme get textTheme {
