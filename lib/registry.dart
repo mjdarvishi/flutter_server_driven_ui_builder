@@ -1,7 +1,7 @@
       // GENERATED CODE - DO NOT MODIFY BY HAND
       // Registry mapping for annotated classes
 
-      import 'package:server_driven_ui_2/driven_ui/dtos/widgets/color_box.dto.dart';
+import 'package:server_driven_ui_2/driven_ui/dtos/widgets/color_box.dto.dart';
 import 'package:server_driven_ui_2/driven_ui/dtos/widgets/column.dto.dart';
 import 'package:server_driven_ui_2/driven_ui/dtos/widgets/decoration.dto.dart';
 import 'package:server_driven_ui_2/driven_ui/dtos/widgets/expanded.dto.dart';
