@@ -1,7 +1,7 @@
-import 'package:flutter_server_driven_ui/driven_ui/dtos/widgets/link.dto.dart';
-import 'package:flutter_server_driven_ui/driven_ui/factory/base_widget.dart';
+import 'package:flutter_server_driven/driven_ui/dtos/widgets/link.dto.dart';
+import 'package:flutter_server_driven/driven_ui/factory/base_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_server_driven_ui/utils/extensions.dart';
+import 'package:flutter_server_driven/utils/extensions.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class LinkDriven extends BaseDrivenUiWidget<LinkSchemaDto> {

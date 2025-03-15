@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_server_driven_ui/share/theme/colors.dart';
+import 'package:flutter_server_driven/share/theme/colors.dart';
 
 class AppTextTheme {
 

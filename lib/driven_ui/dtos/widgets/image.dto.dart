@@ -1,8 +1,8 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:type_binder/annotation.dart';import 'package:json_annotation/json_annotation.dart';
-import 'package:flutter_server_driven_ui/driven_ui/dtos/schema.dto.dart';
-import 'package:flutter_server_driven_ui/utils/extensions.dart';
+import 'package:flutter_server_driven/driven_ui/dtos/schema.dto.dart';
+import 'package:flutter_server_driven/utils/extensions.dart';
 
 part 'image.dto.g.dart';
 

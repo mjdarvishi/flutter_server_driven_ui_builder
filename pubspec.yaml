@@ -1,5 +1,5 @@
-name: flutter_server_driven_ui
-description: "A new Flutter project."
+name: flutter_server_driven
+description: "package for implimenting server driven approach in flutter"
 version: 0.0.1
 homepage: https://github.com/mjdarvishi/flutter_server_driven_ui_builder.git
 repository: https://github.com/mjdarvishi/flutter_server_driven_ui_builder.git

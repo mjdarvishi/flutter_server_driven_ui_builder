@@ -1,10 +1,10 @@
 import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_server_driven_ui/driven_ui/dtos/schema.dto.dart';
-import 'package:flutter_server_driven_ui/driven_ui/dtos/widgets/form.dto.dart';
-import 'package:flutter_server_driven_ui/driven_ui/dtos/widgets/text_field.dto.dart';
-import 'package:flutter_server_driven_ui/driven_ui/event_bus/event_bus.dart';
-import 'package:flutter_server_driven_ui/driven_ui/event_bus/events/btn_click.dart';
+import 'package:flutter_server_driven/driven_ui/dtos/schema.dto.dart';
+import 'package:flutter_server_driven/driven_ui/dtos/widgets/form.dto.dart';
+import 'package:flutter_server_driven/driven_ui/dtos/widgets/text_field.dto.dart';
+import 'package:flutter_server_driven/driven_ui/event_bus/event_bus.dart';
+import 'package:flutter_server_driven/driven_ui/event_bus/events/btn_click.dart';
 
 void main(){
   runApp(TestApp());

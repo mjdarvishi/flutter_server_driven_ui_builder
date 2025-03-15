@@ -1,8 +1,8 @@
 import 'package:flutter_map/flutter_map.dart';
-import 'package:flutter_server_driven_ui/driven_ui/dtos/widgets/map.dto.dart';
-import 'package:flutter_server_driven_ui/driven_ui/factory/base_widget.dart';
+import 'package:flutter_server_driven/driven_ui/dtos/widgets/map.dto.dart';
+import 'package:flutter_server_driven/driven_ui/factory/base_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_server_driven_ui/utils/extensions.dart';
+import 'package:flutter_server_driven/utils/extensions.dart';
 
 class MapDriven extends BaseDrivenUiWidget<MapSchemaDto> {
   MapDriven({super.key, required MapSchemaDto schema}) : super(schema);

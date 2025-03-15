@@ -1,8 +1,8 @@
-import 'package:type_binder/annotation.dart';import 'package:flutter_server_driven_ui/driven_ui/dtos/schema.dto.dart';
+import 'package:type_binder/annotation.dart';import 'package:flutter_server_driven/driven_ui/dtos/schema.dto.dart';
 import 'package:flutter/material.dart';
 import 'package:json_annotation/json_annotation.dart';
-import 'package:flutter_server_driven_ui/share/theme/text_theme.dart';
-import 'package:flutter_server_driven_ui/utils/hex_color.dart';
+import 'package:flutter_server_driven/share/theme/text_theme.dart';
+import 'package:flutter_server_driven/utils/hex_color.dart';
 
 part 'lable.dto.g.dart';
 
